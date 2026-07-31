@@ -7,9 +7,9 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced state management with **MobX**, cross-platform CI/CD pipelines, and expanding my academic foundation with a BCA degree.
+* 🚀 **Currently Exploring**: Advanced state management with **MobX**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
 * 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks.
-* 🎯 **Goal**: To build seamless mobile experiences, scale IT infrastructure for emerging businesses, and establish my own tech corporate entity.
+* 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
 - 🤖 **Fun Fact**  
   → I love writing Python scripts to automate tedious data tasks & backtesting trading strategies in Pine Script 🎉  
   → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and a tricky dependency error to solve.”* ☕💻😄  
@@ -84,16 +84,6 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
-### 🚀 Glitch Safe — Business Interface
-
-A robust technical setup and interface profile tailored for local business entities to streamline their digital presence and operations.
-
-* 🛠️ **Tech Stack**: Flutter, Android, Custom API
-* ✨ **Features**: Continuous pagination, localized automated backups, responsive cross-platform layouts.
-* ✅ **Status**: Deployed
-
----
-
 ### 🎤 Munawar Faruqui 2026 Tour — Digital Platform
 
 Administered the frontend optimization and server architecture for a high-traffic public figure tour website.
@@ -128,7 +118,6 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 
 | Project    | Status            | Platform | Impact                          |
 | ---------- | ----------------- | ------------- | ------------------------------- |
-| Glitch Safe | ✅ Completed      | Mobile / Web  | Streamlined local business UI   |
 | Tour Platform| ✅ Completed      | Web / Servers | Handled massive event traffic   |
 | Trading Engine| 🚧 Ongoing        | TradingView   | Automated momentum backtesting  |
 | Data Automator| ✅ Completed      | Scripting     | Saved 100+ hours of manual sorting|
@@ -138,10 +127,10 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/tarakwadiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com" target="_blank">
+  <a href="mailto:a.tarakwadiya95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AslamTarakwadiya" target="_blank">
@@ -160,7 +149,7 @@ Whether you need a complex native Android feature, a smooth cross-platform Flutt
 * 📱 Advanced Flutter State Management (MobX)
 * ⚙️ Native Android/iOS dependency resolutions
 * 📈 Algorithmic trading script development
-* 🎯 Corporate IT infrastructure and business scaling
+* 🎯 AI & Data-driven mobile integrations
 
 💬 **Drop a message — let’s build something amazing together!**
 
@@ -170,16 +159,16 @@ Whether you need a complex native Android feature, a smooth cross-platform Flutt
 
 ### 📈 Currently Working On
 
-* 🔧 Optimizing cross-platform layouts for **Glitch Safe**.
+* 🔧 Optimizing cross-platform layouts and state management for scalable apps.
 * 📚 Building and backtesting new EMA crossover strategies in **Pine Script**.
 * 📱 Exploring advanced native package assets in **Xcode**.
 
 ### 🎯 2026 Goals
 
-* Complete lateral entry enrollment for my **BCA Degree** at Saurashtra University.
-* Register a formal corporate entity (OPC/LLP) for the **Government e-Marketplace**.
-* Reach **1000+ GitHub stars** across mobile repositories.
-* Mentor upcoming Flutter developers.
+* 📊 Master the fundamentals of **Data Science** and machine learning pipelines.
+* 🦋 Explore cutting-edge **Flutter** features like the Impeller rendering engine, advanced animations, and FFI (Foreign Function Interface).
+* 🦀 Learn **Rust** to build high-performance, memory-safe backend systems.
+* 🌟 Contribute to open-source mobile and data-focused repositories.
 
 *Last Updated: August 2026 | 🚀 Always Building, Always Learning*
 
