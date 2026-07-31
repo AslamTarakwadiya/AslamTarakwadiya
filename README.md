@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Aslam! 👋
 
-<!--
-**AslamTarakwadiya/AslamTarakwadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Application Developer specializing in building responsive, high-performance applications. 
 
-Here are some ideas to get you started:
+* 📱 **5+ years** of experience in **Android (Java)** development
+* 🦋 **3+ years** of experience in **Flutter** & Dart
+* ⚙️ Passionate about clean architecture, native package integration, and responsive layouts across cross-platform environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Mobile Development:** Flutter, Android (Java), Xcode, MobX State Management
+* **Backend & Architecture:** PHP (Laravel, CodeIgniter, WordPress)
+* **Scripting & Analytics:** Python, Pine Script v6
+* **Databases:** MySQL, Firebase, SQLite
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AslamTarakwadiya&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=586069" alt="Aslam's GitHub stats" />
+</div>
