@@ -1,34 +1,186 @@
-# Hi there, I'm Aslam Tarakwadiya 👋
+# 🌟 Hey there, I'm **Aslam Tarakwadiya**..! 👋
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</div>
-<br>
+Welcome to my GitHub! I’m an **IT Professional & Mobile Application Developer** who loves building high-performance, responsive, and cross-platform applications... 🚀
+With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll find a mix of clean architecture, seamless native integrations, and robust backend experiments here — all aimed at solving real‑world problems.
 
-I'm an IT Professional and Mobile Application Developer specializing in cross-platform environments, native pipelines, and custom API architectures.
+---
 
-### 👨‍💻 About Me
-* 📱 **5+ years** of experience in **Android (Java)** development and pipelines.
-* 🦋 **3+ years** of experience in **Flutter**, troubleshooting native package assets, layout responsiveness, and MobX state management.
-* ⚙️ I also manage staging environments and deploy custom APIs using **Laravel, CodeIgniter, and WordPress**.
-* 📊 Beyond mobile, I develop intraday tracking strategies using **Pine Script v6** and write **Python** scripts for large-scale data ingestion and sorting.
-* 🎓 Holding a Diploma in Information Technology from Gujarat Technological University.
+## 👨‍💻 About Me
 
-### 🛠️ Tech Stack & Tools
+* 🚀 **Currently Exploring**: Advanced state management with **MobX**, cross-platform CI/CD pipelines, and expanding my academic foundation with a BCA degree.
+* 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks.
+* 🎯 **Goal**: To build seamless mobile experiences, scale IT infrastructure for emerging businesses, and establish my own tech corporate entity.
+- 🤖 **Fun Fact**  
+  → I love writing Python scripts to automate tedious data tasks & backtesting trading strategies in Pine Script 🎉  
+  → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and a tricky dependency error to solve.”* ☕💻😄  
+  → *“Powered by clean code, layout responsiveness, and questionable sleep schedules...”* ☕😴💻
+* 🌱 **Recently Added**: Actively setting up robust staging environments and resolving complex database connection leaks for scalable apps.
 
-**Mobile Development:**<br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+---
 
-**Backend & Web:**<br>
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+## 🛠️ My Tech Stack
 
-**Scripting & Analytics:**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TradingView](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+### 🌐 Languages
 
-### 📈 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslamTarakwadiya&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=586069" alt="Aslam's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamTarakwadiya&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=586069" alt="Top Languages" height="150" />
+### 🚀 Mobile & Web Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### 📈 Scripting & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=AslamTarakwadiya&theme=radical" />
+</p>
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AslamTarakwadiya&theme=react-dark" />
+</p>
+
+---
+
+## 🔥 Highlighted Projects
+
+### 🚀 Glitch Safe — Business Interface
+
+A robust technical setup and interface profile tailored for local business entities to streamline their digital presence and operations.
+
+* 🛠️ **Tech Stack**: Flutter, Android, Custom API
+* ✨ **Features**: Continuous pagination, localized automated backups, responsive cross-platform layouts.
+* ✅ **Status**: Deployed
+
+---
+
+### 🎤 Munawar Faruqui 2026 Tour — Digital Platform
+
+Administered the frontend optimization and server architecture for a high-traffic public figure tour website.
+
+* 🛠️ **Tech Stack**: PHP, Web Story JSON Models, Subdomain Routing
+* ✨ **Features**: Automated content expiration filters, digital event campaigns, and clean UI components for high-volume traffic.
+* ✅ **Status**: Completed
+
+---
+
+### 📈 Trading Algo Engine
+
+Custom quantitative strategy development for intraday tracking on TradingView.
+
+* 🛠️ **Tech Stack**: Pine Script v6, TradingView
+* ✨ **Features**: Momentum pullback algorithms, exponential moving average (EMA) crossover strategies, and rigorous backtesting pipelines.
+* 🚧 **Status**: Ongoing Refinement
+
+---
+
+### 🗃️ Python Data Automator
+
+A custom data ingestion pipeline built to clean, organize, and sort large datasets automatically.
+
+* 🛠️ **Tech Stack**: Python, CSV parsing libraries
+* ✨ **Features**: Ingests open-source text data, filters duplicates, and sorts rows author-wise into organized spreadsheet documents.
+* ✅ **Status**: Completed
+
+---
+
+## 🏆 Project Metrics
+
+| Project    | Status            | Platform | Impact                          |
+| ---------- | ----------------- | ------------- | ------------------------------- |
+| Glitch Safe | ✅ Completed      | Mobile / Web  | Streamlined local business UI   |
+| Tour Platform| ✅ Completed      | Web / Servers | Handled massive event traffic   |
+| Trading Engine| 🚧 Ongoing        | TradingView   | Automated momentum backtesting  |
+| Data Automator| ✅ Completed      | Scripting     | Saved 100+ hours of manual sorting|
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AslamTarakwadiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Let’s Collaborate!
+
+Whether you need a complex native Android feature, a smooth cross-platform Flutter app, or a custom API backend, I’m always open to meaningful conversations and collaborations.
+
+### I’m particularly interested in:
+
+* 📱 Advanced Flutter State Management (MobX)
+* ⚙️ Native Android/iOS dependency resolutions
+* 📈 Algorithmic trading script development
+* 🎯 Corporate IT infrastructure and business scaling
+
+💬 **Drop a message — let’s build something amazing together!**
+
+---
+
+<div align="center">
+
+### 📈 Currently Working On
+
+* 🔧 Optimizing cross-platform layouts for **Glitch Safe**.
+* 📚 Building and backtesting new EMA crossover strategies in **Pine Script**.
+* 📱 Exploring advanced native package assets in **Xcode**.
+
+### 🎯 2026 Goals
+
+* Complete lateral entry enrollment for my **BCA Degree** at Saurashtra University.
+* Register a formal corporate entity (OPC/LLP) for the **Government e-Marketplace**.
+* Reach **1000+ GitHub stars** across mobile repositories.
+* Mentor upcoming Flutter developers.
+
+*Last Updated: August 2026 | 🚀 Always Building, Always Learning*
+
 </div>
