@@ -12,7 +12,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 * 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
 - 🤖 **Fun Fact**  
   → I love writing Python scripts to automate tedious data tasks & backtesting trading strategies in Pine Script 🎉  
-  → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and a tricky dependency error to solve.”* ☕💻😄  
+  → “Forget coffee — I can survive 24 hours with just 3 hours of sleep, a tricky dependency error, and endless cups of **Chai**.” ☕💻😄
   → *“Powered by clean code, layout responsiveness, and questionable sleep schedules...”* ☕😴💻
 * 🌱 **Recently Added**: Actively setting up robust staging environments and resolving complex database connection leaks for scalable apps.
 
