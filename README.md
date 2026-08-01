@@ -7,7 +7,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced state management with **MobX**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
+* 🚀 **Currently Exploring**: Advanced state management with **MobX,bLoc**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
 * 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks and **WordPress**.
 * 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
 - 🤖 **Fun Fact**  
