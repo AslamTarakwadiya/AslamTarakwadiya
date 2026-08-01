@@ -94,10 +94,10 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslamTarakwadiya&show_icons=true&theme=radical" alt="Aslam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AslamTarakwadiya&show_icons=true&theme=radical&cache_seconds=86400" alt="Aslam's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamTarakwadiya&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamTarakwadiya&theme=radical&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AslamTarakwadiya&theme=radical" alt="GitHub Streak" />
