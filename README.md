@@ -100,7 +100,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamTarakwadiya&theme=radical" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=AslamTarakwadiya&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AslamTarakwadiya&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
