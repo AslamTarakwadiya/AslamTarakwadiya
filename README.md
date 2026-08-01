@@ -91,7 +91,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
-### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="28" /> [IQBuzz](https://iqbuzz.in) — Competitive GK & Quiz Battle App
+### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="96" /> [IQBuzz](https://iqbuzz.in) — Competitive GK & Quiz Battle App
 
 A comprehensive quiz platform tailored for Gujarat State Competitive Exams (GPSC, Talati, Police Constable, etc.), featuring multiple game modes and real-time multiplayer battles.
 
@@ -102,7 +102,7 @@ A comprehensive quiz platform tailored for Gujarat State Competitive Exams (GPSC
   * **Interactive Elements**: KBC-style lifelines, image-based reasoning questions, and performance statistics.
   * **Global Leaderboards**: Daily, weekly, and all-time ranking systems to track user progress.
 * 🌐 **Web URL**: [iqbuzz.in](https://iqbuzz.in)
-* 📱 **Play Store**: [Download IQBuzz](https://play.google.com/store/apps/details?id=in.iqbuzz.app)
+* 📱 **Download**: <a href="https://play.google.com/store/apps/details?id=in.iqbuzz.app" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 * ✅ **Status**: Live on Play Store & Web
 
 ---
