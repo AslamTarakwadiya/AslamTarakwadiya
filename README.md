@@ -91,12 +91,16 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
-### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="96" /> [IQBuzz](https://iqbuzz.in) — Interactive Quiz Application
+### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="28" /> [IQBuzz](https://iqbuzz.in) — Competitive GK & Quiz Battle App
 
-A comprehensive quiz platform and mobile application designed for engaging user assessments and seamless knowledge testing.
+A comprehensive quiz platform tailored for Gujarat State Competitive Exams (GPSC, Talati, Police Constable, etc.), featuring multiple game modes and real-time multiplayer battles.
 
 * 🛠️ **Tech Stack**: Native Android (Java), PHP (CodeIgniter), Custom REST APIs
-* ✨ **Features**: Real-time quiz tracking, robust admin panel, seamless native mobile performance, and optimized data fetching.
+* ✨ **Key Features**: 
+  * **Battle Zone**: Real-time 1v1 and group multiplayer quiz battles with a dynamic coin reward system.
+  * **Multiple Game Modes**: Subject-wise Practice, Daily Quizzes, Self-Challenges, and scheduled Contests.
+  * **Interactive Elements**: KBC-style lifelines, image-based reasoning questions, and performance statistics.
+  * **Global Leaderboards**: Daily, weekly, and all-time ranking systems to track user progress.
 * 🌐 **Web URL**: [iqbuzz.in](https://iqbuzz.in)
 * 📱 **Play Store**: [Download IQBuzz](https://play.google.com/store/apps/details?id=in.iqbuzz.app)
 * ✅ **Status**: Live on Play Store & Web
@@ -138,7 +142,7 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 
 | Project    | Status            | Platform | Impact                          |
 | ---------- | ----------------- | ------------- | ------------------------------- |
-| IQBuzz     | ✅ Live            | Android / Web | Engaging interactive quiz app   |
+| IQBuzz     | ✅ Live            | Android / Web | Interactive multiplayer quizzes |
 | Tour Platform| ✅ Completed      | Web / Servers | Handled massive event traffic   |
 | Trading Engine| 🚧 Ongoing        | TradingView   | Automated momentum backtesting  |
 | Data Automator| ✅ Completed      | Scripting     | Saved 100+ hours of manual sorting|
