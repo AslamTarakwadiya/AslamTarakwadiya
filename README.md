@@ -8,13 +8,13 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 ## 👨‍💻 About Me
 
 * 🚀 **Currently Exploring**: Advanced state management with **MobX**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
-* 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks.
+* 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks and **WordPress**.
 * 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
 - 🤖 **Fun Fact**  
   → I love writing Python scripts to automate tedious data tasks & backtesting trading strategies in Pine Script 🎉  
-  → “Forget coffee — I can survive 24 hours with just 3 hours of sleep, a tricky dependency error, and endless cups of **Chai**.” ☕💻😄
-  → *“Powered by clean code, layout responsiveness, and questionable sleep schedules...”* ☕😴💻
-* 🌱 **Recently Added**: Actively setting up robust staging environments and resolving complex database connection leaks for scalable apps.
+  → *“I can't do anything without **Chai** ☕. But with it, I can survive 24 hours on 3 hours of sleep and a tricky dependency error to solve.”* 💻😄  
+  → *“Powered by Chai, clean code, layout responsiveness, and questionable sleep schedules...”* ☕😴💻
+* 🌱 **Recently Added**: Actively setting up robust staging environments and utilizing agentic AI models for rapid code generation.
 
 ---
 
@@ -40,6 +40,14 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+### 🤖 AI Coding & Agentic Models
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-238636?style=for-the-badge&logo=github-copilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
+
 ### 📈 Scripting & Analytics
 
 <p>
@@ -63,7 +71,6 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
 </p>
 
 ---
@@ -84,12 +91,13 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
-### 🎤 Munawar Faruqui 2026 Tour — Digital Platform
+### 🎤 [Munawar Faruqui 2026 Tour — Digital Platform](https://munawarfaruqui.in)
 
 Administered the frontend optimization and server architecture for a high-traffic public figure tour website.
 
-* 🛠️ **Tech Stack**: PHP, Web Story JSON Models, Subdomain Routing
+* 🛠️ **Tech Stack**: PHP, WordPress, Web Story JSON Models, Subdomain Routing
 * ✨ **Features**: Automated content expiration filters, digital event campaigns, and clean UI components for high-volume traffic.
+* 🌐 **Live URL**: [munawarfaruqui.in](https://munawarfaruqui.in)
 * ✅ **Status**: Completed
 
 ---
@@ -133,7 +141,7 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
   <a href="mailto:a.tarakwadiya95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=a.tarakwadiya95@outlook.com" target="_blank">
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=a.tarakwadiya95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   </a>
   <a href="https://github.com/AslamTarakwadiya" target="_blank">
@@ -164,7 +172,7 @@ Whether you need a complex native Android feature, a smooth cross-platform Flutt
 
 * 🔧 Optimizing cross-platform layouts and state management for scalable apps.
 * 📚 Building and backtesting new EMA crossover strategies in **Pine Script**.
-* 📱 Exploring advanced native package assets in **Xcode**.
+* 🤖 Implementing agentic AI code generation into daily development workflows.
 
 ### 🎯 2026 Goals
 
