@@ -91,7 +91,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
-### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="48" /> [IQBuzz](https://iqbuzz.in) — Interactive Quiz Application
+### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="96" /> [IQBuzz](https://iqbuzz.in) — Interactive Quiz Application
 
 A comprehensive quiz platform and mobile application designed for engaging user assessments and seamless knowledge testing.
 
