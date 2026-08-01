@@ -1,20 +1,20 @@
 # 🌟 Hey there, I'm **Aslam Tarakwadiya**..! 👋
 
 Welcome to my GitHub! I’m an **IT Professional & Mobile Application Developer** who loves building high-performance, responsive, and cross-platform applications... 🚀
-With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll find a mix of clean architecture, seamless native integrations, and robust backend experiments here — all aimed at solving real‑world problems.
+With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll find a mix of clean architecture, seamless native integrations, full-stack cloud deployments, and revenue-driven monetization experiments here — all aimed at solving real‑world problems.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🚀 **Currently Exploring**: Advanced state management with **MobX**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
-* 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks and **WordPress**.
-* 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
+* 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets, and building scalable backends using PHP frameworks & **WordPress** on custom cloud servers.
+* 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer who can handle everything from code to cloud to revenue.
 - 🤖 **Fun Fact**  
   → I love writing Python scripts to automate tedious data tasks & backtesting trading strategies in Pine Script 🎉  
   → *“I can't do anything without **Chai** ☕. But with it, I can survive 24 hours on 3 hours of sleep and a tricky dependency error to solve.”* 💻😄  
   → *“Powered by Chai, clean code, layout responsiveness, and questionable sleep schedules...”* ☕😴💻
-* 🌱 **Recently Added**: Actively setting up robust staging environments and utilizing agentic AI models for rapid code generation.
+* 🌱 **Recently Added**: Implementing **GitHub Actions** for CI/CD automation, configuring **AWS/Azure VPS** architectures, integrating Google Play APIs, and maximizing app revenue through **AdMob & Unity Ads**.
 
 ---
 
@@ -40,6 +40,25 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+### ☁️ Cloud, Hosting & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS_%26_Shared_Hosting-4CAF50?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+</p>
+
+### 💰 Monetization & Ad Networks
+
+<p>
+  <img src="https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AdSense-EA4335?style=for-the-badge&logo=google-adsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppLovin-059BE5?style=for-the-badge&logo=applovin&logoColor=white" />
+</p>
+
 ### 🤖 AI Coding & Agentic Models
 
 <p>
@@ -48,29 +67,26 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
 
-### 📈 Scripting & Analytics
+### 🧰 Tools, APIs & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
+  <img src="https://img.shields.io/badge/Google_Play_Billing-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 📈 Scripting, Analytics & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -173,14 +189,15 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 
 ## 🚀 Let’s Collaborate!
 
-Whether you need a complex native Android feature, a smooth cross-platform Flutter app, or a custom API backend, I’m always open to meaningful conversations and collaborations.
+Whether you need a complex native Android feature, a smooth cross-platform Flutter app, automated deployments, or app monetization setups, I’m always open to meaningful conversations and collaborations.
 
 ### I’m particularly interested in:
 
-* 📱 Advanced Flutter State Management (MobX)
-* ⚙️ Native Android/iOS dependency resolutions
-* 📈 Algorithmic trading script development
-* 🎯 AI & Data-driven mobile integrations
+* 📱 Advanced Flutter State Management & Google Play APIs (Billing/Maps)
+* 💰 App & Web Monetization strategies (AdMob, AdSense, Unity Ads, AppLovin)
+* ☁️ Cloud Infrastructure Setup (AWS, Azure, VPS) & Server Management
+* ⚙️ Automating deployment pipelines using GitHub Actions CI/CD
+* 📈 Algorithmic trading script development & Agentic AI coding
 
 💬 **Drop a message — let’s build something amazing together!**
 
@@ -190,7 +207,7 @@ Whether you need a complex native Android feature, a smooth cross-platform Flutt
 
 ### 📈 Currently Working On
 
-* 🔧 Optimizing cross-platform layouts and state management for scalable apps.
+* 🔧 Optimizing cross-platform layouts and CI/CD pipelines for scalable apps.
 * 📚 Building and backtesting new EMA crossover strategies in **Pine Script**.
 * 🤖 Implementing agentic AI code generation into daily development workflows.
 
@@ -199,7 +216,7 @@ Whether you need a complex native Android feature, a smooth cross-platform Flutt
 * 📊 Master the fundamentals of **Data Science** and machine learning pipelines.
 * 🦋 Explore cutting-edge **Flutter** features like the Impeller rendering engine, advanced animations, and FFI (Foreign Function Interface).
 * 🦀 Learn **Rust** to build high-performance, memory-safe backend systems.
-* 🌟 Contribute to open-source mobile and data-focused repositories.
+* 🌟 Contribute to open-source mobile, cloud, and data-focused repositories.
 
 *Last Updated: August 2026 | 🚀 Always Building, Always Learning*
 
