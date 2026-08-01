@@ -135,6 +135,9 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 ## 🤝 Let’s Connect
 
 <p>
+  <a href="https://tarakwadiya.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/tarakwadiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -148,7 +151,6 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🚀 Let’s Collaborate!
