@@ -91,16 +91,16 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=AslamTarakwadiya&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AslamTarakwadiya&show_icons=true&theme=radical" alt="Aslam's GitHub Stats" />
 </p>
-
-## 📊 GitHub Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AslamTarakwadiya&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamTarakwadiya&theme=radical" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=AslamTarakwadiya&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
