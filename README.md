@@ -7,7 +7,7 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced state management with **MobX,bLoc**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
+* 🚀 **Currently Exploring**: Advanced state management with **MobX**, diving deep into **Data Science**, and exploring high-performance systems with **Rust**.
 * 💼 **Focused On**: Crafting highly responsive mobile applications, troubleshooting native package assets in Xcode/Android environments, and building custom APIs using PHP frameworks and **WordPress**.
 * 🎯 **Goal**: To build seamless mobile experiences, leverage data-driven solutions, and constantly evolve as a versatile software engineer.
 - 🤖 **Fun Fact**  
@@ -91,6 +91,18 @@ With over **5+ years in Android (Java)** and **3+ years in Flutter**, you’ll f
 
 ## 🔥 Highlighted Projects
 
+### <img src="https://iqbuzz.in/assets/images/quizlogo.png" width="28" /> [IQBuzz](https://iqbuzz.in) — Interactive Quiz Application
+
+A comprehensive quiz platform and mobile application designed for engaging user assessments and seamless knowledge testing.
+
+* 🛠️ **Tech Stack**: Native Android (Java), PHP (CodeIgniter), Custom REST APIs
+* ✨ **Features**: Real-time quiz tracking, robust admin panel, seamless native mobile performance, and optimized data fetching.
+* 🌐 **Web URL**: [iqbuzz.in](https://iqbuzz.in)
+* 📱 **Play Store**: [Download IQBuzz](https://play.google.com/store/apps/details?id=in.iqbuzz.app)
+* ✅ **Status**: Live on Play Store & Web
+
+---
+
 ### 🎤 [Munawar Faruqui 2026 Tour — Digital Platform](https://munawarfaruqui.in)
 
 Administered the frontend optimization and server architecture for a high-traffic public figure tour website.
@@ -126,6 +138,7 @@ A custom data ingestion pipeline built to clean, organize, and sort large datase
 
 | Project    | Status            | Platform | Impact                          |
 | ---------- | ----------------- | ------------- | ------------------------------- |
+| IQBuzz     | ✅ Live            | Android / Web | Engaging interactive quiz app   |
 | Tour Platform| ✅ Completed      | Web / Servers | Handled massive event traffic   |
 | Trading Engine| 🚧 Ongoing        | TradingView   | Automated momentum backtesting  |
 | Data Automator| ✅ Completed      | Scripting     | Saved 100+ hours of manual sorting|
